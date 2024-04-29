@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    background-color: aquamarine;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header img {
+    height: 80px;
+    width: 80px;
+    text-align: center;
+}
+
+h1 {
+    color: #0004ff;
+}
+
+h2 {
+    color: rgb(255, 81, 0);
+}
+
+h3 {
+    color: rgb(140, 2, 182);
+}
+
+ #nome {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+section img {
+    height: 70%;
+    width: 90%;
+}
+
+ol {
+    list-style-type: decimal;
+    padding-left: 20px;
+}
